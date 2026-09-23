@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_dihni_w23_ent_14.w23_sample_Kathiresan</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>w23_sample_Kathiresan</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var w23_sample_Kathiresan = Class.create();
+w23_sample_Kathiresan.prototype = {
+    initialize: function() {
+    },
+
+    type: 'w23_sample_Kathiresan'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>kathirs</sys_created_by>
+        <sys_created_on>2026-09-23 09:20:53</sys_created_on>
+        <sys_id>d85c2ef4972f47148ebef3fce053af63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>w23_sample_Kathiresan</sys_name>
+        <sys_package display_value="W23_Enterprise_Portfolio_Kathiresan" source="x_dihni_w23_ent_14">26d56ab4976b07148ebef3fce053afef</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="W23_Enterprise_Portfolio_Kathiresan">26d56ab4976b07148ebef3fce053afef</sys_scope>
+        <sys_update_name>sys_script_include_d85c2ef4972f47148ebef3fce053af63</sys_update_name>
+        <sys_updated_by>kathirs</sys_updated_by>
+        <sys_updated_on>2026-09-23 09:20:53</sys_updated_on>
+    </sys_script_include>
+</record_update>
